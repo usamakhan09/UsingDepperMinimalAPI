@@ -1,0 +1,6 @@
+D:\MYprojects\UserDB\bin\Debug\UserDB.dacpac
+D:\MYprojects\UserDB\bin\Debug\UserDB.dll
+D:\MYprojects\UserDB\bin\Debug\UserDB.pdb
+D:\MYprojects\UserDB\obj\Debug\UserDB.sqlproj.AssemblyReference.cache
+D:\MYprojects\UserDB\obj\Debug\UserDB.dll
+D:\MYprojects\UserDB\obj\Debug\UserDB.pdb
